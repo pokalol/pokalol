@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://github.com/Poka33WasTaken">Poka</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="20px" height="50px"></h2>
+<h2> Hi, I'm <a href="https://github.com/Poka33WasTaken">Poka</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="50px" height="50px"></h2>
 
 Hi, I'm Poka, just started with programming 🚀 from Europe, currently, I'm studying C++ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer. My goal is to have basic knowedge of programming and understand the code that I'm using. And I will see where I end up.
 
